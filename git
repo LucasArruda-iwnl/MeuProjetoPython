@@ -1,0 +1,43 @@
+[33mcommit 8d2da9189bf6c0cf03d56206b4bb20816e8c07e5[m[33m ([m[1;36mHEAD[m[33m)[m
+Merge: f1d033f a607ebc
+Author: Lucas Arruda Silva <lucasarruda020@gmail.com>
+Date:   Tue May 31 13:54:54 2022 -0300
+
+    Merge branch 'master' of https://github.com/LucasArruda-iwnl/MeuProjetoPython into HEAD
+
+[33mcommit f1d033f2767af4e108cec347e34dea5a35e6e130[m
+Merge: c2c69c3 a346b4c
+Author: Lucas Arruda Silva <lucasarruda020@gmail.com>
+Date:   Tue May 31 13:54:40 2022 -0300
+
+    Merge branch 'main' of https://github.com/LucasArruda-iwnl/MeuProjetoPython into HEAD
+
+[33mcommit a607ebc47feeb336da84eccad778dbdc62aa83c3[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+Author: Lucas Arruda Silva <lucasarruda020@gmail.com>
+Date:   Tue May 31 12:07:25 2022 -0300
+
+    agora tem uma terceira linha com meu nome!
+
+[33mcommit 08c4840fe2e1f705f987545a9688a5ddcd1e7c4a[m
+Author: Lucas Arruda Silva <lucasarruda020@gmail.com>
+Date:   Tue May 31 11:56:00 2022 -0300
+
+    agora adicionei uma linha 2
+
+[33mcommit a346b4cae80ba579eac97fd575b45f64a048b55f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: LucasArruda-iwnl <105546865+LucasArruda-iwnl@users.noreply.github.com>
+Date:   Tue May 31 11:49:38 2022 -0300
+
+    Add files via upload
+
+[33mcommit c2c69c3c238469ddf82cad48af4e9e7ac643d058[m
+Author: Lucas Arruda Silva <lucasarruda020@gmail.com>
+Date:   Tue May 31 11:30:08 2022 -0300
+
+    um exemplo simples de codigo python
+
+[33mcommit 9516bafdfd0f7f45eb10c22b638a5f5df065d166[m
+Author: LucasArruda-iwnl <105546865+LucasArruda-iwnl@users.noreply.github.com>
+Date:   Tue May 31 10:57:10 2022 -0300
+
+    Initial commit
